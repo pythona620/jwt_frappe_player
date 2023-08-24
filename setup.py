@@ -8,7 +8,7 @@ with open('requirements.txt') as f:
 from jwt_frappe import __version__ as version
 
 setup(
-	name='jwt_frappe',
+	name='jwt_frappe_player',
 	version=version,
 	description='auth with token for mobile and frontend applications ',
 	author='ahmadragheb',
